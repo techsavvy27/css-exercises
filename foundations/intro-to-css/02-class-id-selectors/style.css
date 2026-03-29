@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.yo,
+.yz {
+  background-color: pink;
+
+  font-family: verdana "DejaVu Sans" sans-serif;
+}
+#yy {
+  color: blue;
+  font-size: 36px;
+}
+.yz {
+  font-size: 24px;
+}
+#xy {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: bold;
+}
